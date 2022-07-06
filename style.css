@@ -1,0 +1,15 @@
+img{
+    width: 30%;
+    margin: calc(3%/6);
+}
+
+nav{
+    font-size: 1.4em;
+    font-family: 'Permanent Marker', cursive;
+    text-transform: uppercase;
+    border-bottom: 2px solid #aaaaaa;
+    width: 30%;
+    margin-left: calc(3%/6);
+    margin-bottom: 1%;
+    padding: 20px 0;
+}
